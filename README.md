@@ -10,20 +10,15 @@
 <p>
 This is a 2D top down shooter game with two levels and various functionalities and features in it.
 </p>
---------------------------------------------------------------------------------------
+
 <p>
 For more details-
 <a href="https://docs.google.com/document/d/1LdgY1ZZUIRn6PmGC436N0veKylZUyKWu4a_pkZJxp3c/edit?ts=5eb16a73#">
 Report 
 </a>
 </p>
-
-## Features ##
-enter something
-
 ----------------------------------------------------------------------------------------
-### Login ###
-![](https://github.com/sakship31/Workspace/blob/master/Photos_Videos/Login.PNG)
+<img src="https://github.com/tarush-r/Top-Down-Shooter-Game/blob/master/Photos/gif.gif">
 
 ---------------------------------------------------------------------------------------
 ## Link to Working Demo of the game ##
@@ -32,22 +27,10 @@ Top-Down-Shooter
 </a>
 <br>
 
-## How To Use
-#### Software Requirements
-```html  
-enter
-```
-
-#### Installation
-Install the dependencies by running:
-```html  
-enter
-```
-
-#### Run using Command Prompt
+#### How to Run- 
 
 ```html
-enter
+Download the executable file in the exe folder and run
 ```
 
 ###             Tech stack
@@ -55,5 +38,5 @@ enter
 `Language` : C# <br>
 `Game Art` : Photoshop  <br>
 
-<h3 align="center"><b>Developed with :heart: by <a href="https://github.com/tarush-r">Tarush</a> ,<a href="https://github.com/sakship31/">Sakshi</a> and </<a href="https://github.com/"> </a></b></h1>
+<h3 align="center"><b>Developed with :heart: by <a href="https://github.com/tarush-r">Tarush</a> ,<a href="https://github.com/sakship31/">Sakshi</a> and </<a href="https://github.com/sanmitsahu">Sanmit</a></b></h1>
 
